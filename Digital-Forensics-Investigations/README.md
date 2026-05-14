@@ -15,7 +15,7 @@ This project involved investigating digital evidence from forensic lab scenarios
 
 ##Powerpoint & Reports
 # HiTek Challenge Digital Project
-- https://docs.google.com/presentation/d/1ldx0mClElfywCBVfq3tofhpCfn7MGRLxltIGCBKFXvE/edit?usp=drive_link
-- https://docs.google.com/document/d/1b_Bg4VawsSIDX-ZGhbmF5y4IPd2Lni9d2LUTna9Dj6s/edit?usp=drive_link
+- https://drive.google.com/file/d/1faH2DRUSoIsnmRkC8y4qtJ49EQa4ZMpD/view?usp=drive_link
+- https://drive.google.com/file/d/1yolxCoRWB-pooZgSJMgBMHT3ofRe54p2/view?usp=drive_link
 # Forensics Lab Project
-- https://docs.google.com/document/d/1XvxdRx6QKhlO7TlimGlElWoQcj0JCkl5C0eAtaC2l4k/edit?usp=drive_link
+- https://drive.google.com/file/d/1284U0W8O6hPYlT2F_OSkVfvUrZvCBDns/view?usp=drive_link
