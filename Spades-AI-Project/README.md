@@ -53,7 +53,7 @@ Maintains:
 ## Setup/Running the Project
 
 1. Install Requirements
--https://drive.google.com/file/d/1FH5vZYXTYx70BySQqVigxxtL_P1i1X9G/view?usp=drive_link
+-https://drive.google.com/file/d/1omusIkqQ6KX-zKglySURG7qVnOTKuNjg/view?usp=drive_link
 -Python 3.14.4  
      python3 -m venv venv  
      source venv/bin/activate  
@@ -74,7 +74,7 @@ Run Training
     - For reference, SELFPLAY_GAMES = 50 and BATCH_SIZE = 10 takes around 5 mins to run.  
 - python train.py
 
-4. Run a Test Game  
+Run a Test Game  
 - tinyzero/spades/eval.py
     - To change the number of evaluation games, adjust the variable EVAL_GAMES in eval.py.
     - For reference, EVAL_GAMES = 10 takes around 20 mins to run.  
